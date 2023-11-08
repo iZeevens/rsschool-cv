@@ -2,6 +2,7 @@
 
 ## :iphone:My Social Media 
 “Need to past images here(discord, likedIn, telegram e.g.)”
+[![Foo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png)](https://discord.com/users/izeevens)
 
 ## :dart:My goals and priorities
  1. Get job or internship in top tech company
@@ -39,7 +40,7 @@ Soft skills
  2. Rsschool “JS Main Course”
 
 ## :coffee:English Language 
-My English Level is a2-b1
+My English Level is A2-B1
  1. I have a lot of speaking practice with my friends every day. They have C1+ level English proficiency
  2. Every day, I practice my English using the ‘English File Book’
 
