@@ -1,1 +1,1 @@
-https://iZeevens.github.io/rsschool-cv/
+https://iZeevens.github.io/rsschool-cv/index.html
