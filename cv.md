@@ -1,8 +1,8 @@
 # **My name is Kirill Parfenov**
 
 ## :iphone:My Social Media 
--[Discord](https://discord.com/users/izeevens)
--[Telegram](https://t.me/iZeevens)
+- [Discord](https://discord.com/users/izeevens)\
+- [Telegram](https://t.me/iZeevens)
 ## :dart:My goals and priorities
  1. Get job or internship in top tech company
  2. Progress my English to b2
