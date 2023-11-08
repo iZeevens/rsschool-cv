@@ -26,7 +26,12 @@ Soft skills
  5. Time Management 
  6. Critical Thinking
 
-## :technologist:Code Examples-(Need to do, when I arrive home)
+## :man_technologist:Code Examples-(Need to do, when I arrive home)
+
+## :chart_with_upwards_trend:Work Experience
+ 1. [UI-Library](https://github.com/iZeevens/UI-Library)
+ 2. [Employees_template](https://github.com/iZeevens/Employees_template)
+ 3. [Picture_JS](https://github.com/iZeevens/Picture_JS)
 
 
 ## :books:Education 
