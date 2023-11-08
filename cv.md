@@ -1,4 +1,4 @@
-# **My name is Kirill Parfenov** ![](https://avatars.githubusercontent.com/u/129598659?v=4)
+# **My name is Kirill Parfenov**
 
 ## :iphone:My Social Media 
 - [Discord](https://discord.com/users/izeevens)
