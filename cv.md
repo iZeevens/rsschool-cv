@@ -1,7 +1,7 @@
 # **My name is Kirill Parfenov**
 
 ## :iphone:My Social Media 
-- [Discord](https://discord.com/users/izeevens)\
+- [Discord](https://discord.com/users/izeevens)
 - [Telegram](https://t.me/iZeevens)
 ## :dart:My goals and priorities
  1. Get job or internship in top tech company
@@ -12,13 +12,16 @@ I have a strong desire to learn and I see how quickly I learn
 
 ## :book:My Skills
 Hard skills
+
  1. HTML
  2. CSS
  3. SASS
  4. JS
  5. React
  6. GIT/GitHub
+
 Soft skills
+
  1. Fast learner
  2. Self-discipline
  3. Communicative
