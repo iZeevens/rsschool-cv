@@ -28,7 +28,7 @@ Soft skills:
  6. Critical Thinking
 
 ## :man_technologist:Code Examples
-[CodeWars_task](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
+[CodeWars_task](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)\
 My decision: 
 ```
 function multiply(a, b){
