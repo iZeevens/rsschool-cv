@@ -11,8 +11,7 @@
 I have a strong desire to learn and I see how quickly I learn
 
 ## :book:My Skills
-Hard skills
-
+Hard skills:
  1. HTML
  2. CSS
  3. SASS
@@ -20,8 +19,7 @@ Hard skills
  5. React
  6. GIT/GitHub
 
-Soft skills
-
+Soft skills:
  1. Fast learner
  2. Self-discipline
  3. Communicative
@@ -29,8 +27,14 @@ Soft skills
  5. Time Management 
  6. Critical Thinking
 
-## :man_technologist:Code Examples-(Need to do, when I arrive home)
-
+## :man_technologist:Code Examples
+[CodeWars_task](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
+My decision: 
+```
+function multiply(a, b){
+  return(a * b)
+}
+```
 ## :chart_with_upwards_trend:Work Experience
  1. [UI-Library](https://github.com/iZeevens/UI-Library)
  2. [Employees_template](https://github.com/iZeevens/Employees_template)
