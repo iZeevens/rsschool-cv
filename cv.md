@@ -1,9 +1,8 @@
 # **My name is Kirill Parfenov**
 
 ## :iphone:My Social Media 
-“Need to past images here(discord, likedIn, telegram e.g.)”
-[![Foo](https://www.freeiconspng.com/thumbs/discord-icon/discord-icon-7.png)](https://discord.com/users/izeevens)
-
+-[Discord](https://discord.com/users/izeevens)
+-[Telegram](https://t.me/iZeevens)
 ## :dart:My goals and priorities
  1. Get job or internship in top tech company
  2. Progress my English to b2
