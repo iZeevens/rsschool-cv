@@ -28,7 +28,6 @@ Soft skills
 
 ## :technologist:Code Examples-(Need to do, when I arrive home)
 
-## :chart_with_upwards_trend:Work Experience(Add links to my project in GitHub)
 
 ## :books:Education 
  1. Udemy course “Complete course on JavaScript + React - from scratch to results” Ivan Petrichenko
