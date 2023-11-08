@@ -2,7 +2,7 @@
 
 ## :iphone:My Social Media 
 “Need to past images here(discord, likedIn, telegram e.g.)”
-[![Foo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png)](https://discord.com/users/izeevens)
+[![Foo](https://www.freeiconspng.com/thumbs/discord-icon/discord-icon-7.png)](https://discord.com/users/izeevens)
 
 ## :dart:My goals and priorities
  1. Get job or internship in top tech company
